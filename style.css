@@ -18,6 +18,7 @@ img, .choise{
     border: 10px solid black;
     object-fit: cover;
     opacity: 50%;
+    cursor: pointer;
 }
 
 .choises{
